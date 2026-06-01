@@ -224,4 +224,3 @@ CGPA: 8.08 / 10 | 2011 - 2015
 <p align="center">
   <strong>Open to Principal Engineer, Backend Architect, Solution Architect, and Technical Lead opportunities.</strong>
 </p>
-
