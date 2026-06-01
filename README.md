@@ -55,7 +55,7 @@ I have delivered high-impact platforms for global organizations including Google
 ### Languages & Runtime
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![JavaScript ES6+](https://img.shields.io/badge/JavaScript%20ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ### Backend & APIs
@@ -64,8 +64,10 @@ I have delivered high-impact platforms for global organizations including Google
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-2563EB?style=flat-square)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
+![Serverless Architecture](https://img.shields.io/badge/Serverless%20Architecture-FD5750?style=flat-square&logo=serverless&logoColor=white)
+![Event-Driven Architecture](https://img.shields.io/badge/Event--Driven%20Architecture-0F766E?style=flat-square)
 ![Webhooks](https://img.shields.io/badge/Webhooks-0F766E?style=flat-square)
+![Streaming](https://img.shields.io/badge/Streaming-7C3AED?style=flat-square)
 
 ### Databases & Caching
 
@@ -83,9 +85,66 @@ I have delivered high-impact platforms for global organizations including Google
 ![SNS](https://img.shields.io/badge/SNS-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
 ![Kinesis](https://img.shields.io/badge/Kinesis-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
 ![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![SAM](https://img.shields.io/badge/AWS%20SAM-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![SES](https://img.shields.io/badge/SES-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![KMS](https://img.shields.io/badge/KMS-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![Secrets Manager](https://img.shields.io/badge/Secrets%20Manager-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+
+### Architecture & Design
+
+![System Design](https://img.shields.io/badge/System%20Design-111827?style=flat-square)
+![Solution Architecture](https://img.shields.io/badge/Solution%20Architecture-2563EB?style=flat-square)
+![Database Design](https://img.shields.io/badge/Database%20Design-047857?style=flat-square)
+![Cloud Infrastructure Design](https://img.shields.io/badge/Cloud%20Infrastructure%20Design-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![API Design](https://img.shields.io/badge/API%20Design-7C3AED?style=flat-square)
+![Event-Driven Patterns](https://img.shields.io/badge/Event--Driven%20Patterns-0F766E?style=flat-square)
+![Queue-Based Architecture](https://img.shields.io/badge/Queue--Based%20Architecture-4F46E5?style=flat-square)
+
+### Security & Auth
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-111827?style=flat-square)
+![RBAC](https://img.shields.io/badge/RBAC-2563EB?style=flat-square)
+![Bcrypt Hashing](https://img.shields.io/badge/Bcrypt%20Hashing-059669?style=flat-square)
+![End-to-End Encryption](https://img.shields.io/badge/End--to--End%20Encryption-DC2626?style=flat-square)
+![OTP/2FA](https://img.shields.io/badge/OTP%2F2FA-7C3AED?style=flat-square)
+
+### Messaging
+
+![SMS](https://img.shields.io/badge/SMS-111827?style=flat-square)
+![RCS](https://img.shields.io/badge/RCS-2563EB?style=flat-square)
+![MMS](https://img.shields.io/badge/MMS-0F766E?style=flat-square)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+![AWS SNS](https://img.shields.io/badge/AWS%20SNS-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+
+### DevOps & Tooling
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![AWS SAM](https://img.shields.io/badge/AWS%20SAM-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Serverless Framework](https://img.shields.io/badge/Serverless%20Framework-FD5750?style=flat-square&logo=serverless&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+### Project Management
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Agile / Scrum](https://img.shields.io/badge/Agile%20%2F%20Scrum-2563EB?style=flat-square)
+![Sprint Planning](https://img.shields.io/badge/Sprint%20Planning-0F766E?style=flat-square)
+![Backlog Management](https://img.shields.io/badge/Backlog%20Management-7C3AED?style=flat-square)
+
+### Leadership & Process
+
+![Team Leadership](https://img.shields.io/badge/Team%20Leadership-111827?style=flat-square)
+![Mentoring](https://img.shields.io/badge/Mentoring-2563EB?style=flat-square)
+![Code Review](https://img.shields.io/badge/Code%20Review-059669?style=flat-square)
+![Client Communication](https://img.shields.io/badge/Client%20Communication-7C3AED?style=flat-square)
+![Technical Documentation](https://img.shields.io/badge/Technical%20Documentation-4B5563?style=flat-square)
 
 ---
 
